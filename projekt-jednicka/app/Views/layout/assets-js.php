@@ -1,1 +1,1 @@
-<script scr="<?= base_url('node_modules/bootstrap/dist/js/bootstrap.bundle.js'); ?>"></script>
+<script src="<?= base_url('node_modules/bootstrap/dist/js/bootstrap.bundle.js'); ?>"></script>
